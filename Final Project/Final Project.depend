@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1370586218 source:g:\final project\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<graphics.h>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1367209783 source:c:\users\mzjensen\desktop\menuing3\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+
+1367213440 source:i:\menuing3\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+
+1367213440 source:g:\menuing3\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+

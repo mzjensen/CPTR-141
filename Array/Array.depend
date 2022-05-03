@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1368633216 source:g:\array\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<iomanip>
+
+1369063602 source:i:\array\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+
+1369028842 source:c:\users\mzjensen\desktop\array\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+
